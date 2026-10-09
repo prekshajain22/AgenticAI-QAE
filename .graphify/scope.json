@@ -4,6 +4,7 @@
   "source": "configured-default",
   "root": ".",
   "git_root": ".",
+  "head": "b2187ad0fcc7e67d28630ca0d1ccac798533f193",
   "candidate_count": null,
   "included_count": 0,
   "excluded_untracked_count": 0,
